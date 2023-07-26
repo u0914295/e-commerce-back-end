@@ -43,7 +43,7 @@ These endpoints allow you to perform CRUD operations for products, categories, a
 [![insomnia.png](https://i.postimg.cc/GptTMf5K/insomnia.png)](https://postimg.cc/Lqds5xRg)
 
 
-To see a walkthrough video showing how to install and use this application, please click on the following link:
+To see a walkthrough video showing how to install and use this application, please click on the following link (I highly suggest downloading the video and using your own video player to view it in significantly increased quality):
 
 https://drive.google.com/file/d/1OmAB8lVSGuJEHnfDMhbuw-PIyRPbMsaq/view?usp=sharing
 
