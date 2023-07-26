@@ -40,6 +40,5 @@ You can use Insomnia Core or any other API client to test the API Routes. Here a
 
 These endpoints allow you to perform CRUD operations for products, categories, and tags. To see a walkthrough video showing how to install and use this application, please click on the following link:
 
-[![Watch the video]([![Screenshot-2023-07-26-133439.png](https://i.postimg.cc/G3Jw5fRk/Screenshot-2023-07-26-133439.png)](https://postimg.cc/MXTFcdvT)](https://drive.google.com/file/d/1OmAB8lVSGuJEHnfDMhbuw-PIyRPbMsaq/view?usp=sharing)
-
+https://drive.google.com/file/d/1OmAB8lVSGuJEHnfDMhbuw-PIyRPbMsaq/view?usp=sharing
 
