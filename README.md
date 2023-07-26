@@ -23,7 +23,7 @@ DB_PASSWORD='password'
 4. **Starting the Server**: Run `npm start` in the terminal to start the server. Once complete, the terminal should state the server is listening.
 
 ## Usage
-You can use Insomnia Core or any other API client to test the API Routes. Here are the routes that you can test:
+You can use Insomnia Core or any other API client to test the API Routes. Here are some possible routes that you can test:
 
 - `GET /api/products`, `GET /api/products/:id`
 - `GET /api/categories`, `GET /api/categories/:id`
@@ -38,7 +38,12 @@ You can use Insomnia Core or any other API client to test the API Routes. Here a
 - `DELETE /api/categories/:id`
 - `DELETE /api/tags/:id`
 
-These endpoints allow you to perform CRUD operations for products, categories, and tags. To see a walkthrough video showing how to install and use this application, please click on the following link:
+These endpoints allow you to perform CRUD operations for products, categories, and tags. An example screenshot of these possible CRUD operations are shown below:
+
+[![insomnia.png](https://i.postimg.cc/GptTMf5K/insomnia.png)](https://postimg.cc/Lqds5xRg)
+
+
+To see a walkthrough video showing how to install and use this application, please click on the following link:
 
 https://drive.google.com/file/d/1OmAB8lVSGuJEHnfDMhbuw-PIyRPbMsaq/view?usp=sharing
 
